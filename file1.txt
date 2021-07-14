@@ -3,6 +3,7 @@
 int main(){
     printf("Hello, World!\n");
     // 깃허브에서 직접 수정 4-2
+    // 깃허브에서 직접 수정 4-1
     return 0;
 <<<<<<< HEAD
     // 마스터주석
