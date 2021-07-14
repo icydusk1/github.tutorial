@@ -3,5 +3,10 @@
 int main(){
     printf("Hello, World!\n");
     return 0;
+<<<<<<< HEAD
     // 마스터주석
+=======
+	// 파이썬주석
+	// 둘다 적용하자구!
+>>>>>>> python
 }
