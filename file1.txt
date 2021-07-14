@@ -7,4 +7,5 @@ int main(){
 	// 로컬 변경사항 테스트
 	// git push!
 	// github에서 변경
+	// pull 및 변경 후 다시 push!
 }
